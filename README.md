@@ -8,6 +8,5 @@ Download & Installation:
 4. Import esx_beerdelivery.sql in your database
 5. Add this in your server.cfg
 
-
-[start esx_beerdelivery]
+   [start esx_beerdelivery]
 
